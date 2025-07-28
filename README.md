@@ -12,3 +12,26 @@
 Результаты:
 - Формирование оборотно-сальдовой ведомости.
 - Анализ финансовых результатов и закрытие месяца.
+
+<img width="695" height="344" alt="image" class="center" src="https://github.com/user-attachments/assets/684146de-68bd-4ee1-b0da-efaa22458124" />
+Создание документа «Поступление товара»
+
+<img width="720" height="420" alt="image" class="center" src="https://github.com/user-attachments/assets/91941221-0445-404e-a3b0-9055db06f40c" />
+Создание платежного поручения
+
+<img width="792" height="162" alt="image" class="center" src="https://github.com/user-attachments/assets/58e0a2ae-f278-4e07-8f22-bd1f33518077" />
+Регистрация счет-фактуры
+
+<img width="713" height="233" alt="image" class="center" src="https://github.com/user-attachments/assets/24369448-9021-421a-8cdc-c8c9579b4187" />
+Операция «Выдача наличных»
+
+<img width="805" height="209" alt="image" class="center" src="https://github.com/user-attachments/assets/c31961dc-101c-4763-bf9f-056e63889b5b" />
+Заполнение аванса
+
+<img width="766" height="533" alt="image" class="center" src="https://github.com/user-attachments/assets/1fc1412e-96a0-45ba-9c92-92c34022ba86" />
+Оборотно-сальдовая ведомость за 2023г
+
+Эти изображения отражают ключевые этапы работы: ввод первичных документов, проведение платежей, учет НДС и финальную отчетность.
+
+
+
