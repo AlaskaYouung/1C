@@ -16,20 +16,32 @@
 <img width="695" height="344" alt="image" class="center" src="https://github.com/user-attachments/assets/684146de-68bd-4ee1-b0da-efaa22458124" />
 <p align="center"> Создание документа «Поступление товара» </p>
 
+
+
 <img width="720" height="420" alt="image" class="center" src="https://github.com/user-attachments/assets/91941221-0445-404e-a3b0-9055db06f40c" />
 <p align="center"> Создание платежного поручения </p>
+
+
 
 <img width="792" height="162" alt="image" class="center" src="https://github.com/user-attachments/assets/58e0a2ae-f278-4e07-8f22-bd1f33518077" />
 <p align="center"> Регистрация счет-фактуры </p>
 
+
+
 <img width="713" height="233" alt="image" class="center" src="https://github.com/user-attachments/assets/24369448-9021-421a-8cdc-c8c9579b4187" />
 <p align="center"> Операция «Выдача наличных»  </p>
+
+
 
 <img width="805" height="209" alt="image" class="center" src="https://github.com/user-attachments/assets/c31961dc-101c-4763-bf9f-056e63889b5b" />
 <p align="center"> Заполнение аванса </p>
 
+
+
 <img width="766" height="533" alt="image" class="center" src="https://github.com/user-attachments/assets/1fc1412e-96a0-45ba-9c92-92c34022ba86" />
 <p align="center"> Оборотно-сальдовая ведомость за 2023г </p>
+
+
 
 Эти изображения отражают ключевые этапы работы: ввод первичных документов, проведение платежей, учет НДС и финальную отчетность.
 
